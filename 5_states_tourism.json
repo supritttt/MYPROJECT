@@ -1,0 +1,162 @@
+[
+  {
+    "place": "Gangtok",
+    "state": "Sikkim",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Gangtok is a beautiful hill station located in Sikkim, India.",
+    "image": "/images/gangtok.png"
+  },
+  {
+    "place": "Yumthang Valley",
+    "state": "Sikkim",
+    "type": "Valley",
+    "category": "Hotspot",
+    "description": "Yumthang Valley is a beautiful valley located in Sikkim, India.",
+    "image": "/images/yumthang.png"
+  },
+  {
+    "place": "Zuluk",
+    "state": "Sikkim",
+    "type": "Mountain Pass",
+    "category": "Hidden Gem",
+    "description": "Zuluk is a beautiful mountain pass located in Sikkim, India.",
+    "image": "/images/zuluk.png"
+  },
+  {
+    "place": "Lachung",
+    "state": "Sikkim",
+    "type": "Village",
+    "category": "Hidden Gem",
+    "description": "Lachung is a beautiful village located in Sikkim, India.",
+    "image": "/images/lachung.png"
+  },
+  {
+    "place": "Chilika Lake",
+    "state": "Odisha",
+    "type": "Lake",
+    "category": "Hotspot",
+    "description": "Chilika Lake is a beautiful lake located in Odisha, India.",
+    "image": "/images/chillika.jpeg"
+  },
+  {
+    "place": "Simlipal National Park",
+    "state": "Odisha",
+    "type": "Wildlife",
+    "category": "Hotspot",
+    "description": "Simlipal National Park is a beautiful wildlife located in Odisha, India.",
+    "image": "/images/simlipal.jpeg"
+  },
+  {
+    "place": "Satkosia Gorge",
+    "state": "Odisha",
+    "type": "River Gorge",
+    "category": "Hidden Gem",
+    "description": "Satkosia Gorge is a beautiful river gorge located in Odisha, India.",
+    "image": "/images/satkosia.jpeg"
+  },
+  {
+    "place": "Deomali Hills",
+    "state": "Odisha",
+    "type": "Hill",
+    "category": "Hidden Gem",
+    "description": "Deomali Hills is a beautiful hill located in Odisha, India.",
+    "image": "/images/deomali.jpeg"
+  },
+  {
+    "place": "Lonavala",
+    "state": "Maharashtra",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Lonavala is a beautiful hill station located in Maharashtra, India.",
+    "image": "/images/lonavala.jpeg"
+  },
+  {
+    "place": "Mahabaleshwar",
+    "state": "Maharashtra",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Mahabaleshwar is a beautiful hill station located in Maharashtra, India.",
+    "image": "/images/mahabaleshwar.jpeg"
+  },
+  {
+    "place": "Bhandardara",
+    "state": "Maharashtra",
+    "type": "Lake",
+    "category": "Hidden Gem",
+    "description": "Bhandardara is a beautiful lake located in Maharashtra, India.",
+    "image": "/images/bhandardara.jpeg"
+  },
+  {
+    "place": "Tamhini Ghat",
+    "state": "Maharashtra",
+    "type": "Mountain Pass",
+    "category": "Hidden Gem",
+    "description": "Tamhini Ghat is a beautiful mountain pass located in Maharashtra, India.",
+    "image": "/images/tamhini.jpeg"
+  },
+  {
+    "place": "Ooty",
+    "state": "Tamil Nadu",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Ooty is a beautiful hill station located in Tamil Nadu, India.",
+    "image": "/images/ooty.jpeg"
+  },
+  {
+    "place": "Kodaikanal",
+    "state": "Tamil Nadu",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Kodaikanal is a beautiful hill station located in Tamil Nadu, India.",
+    "image": "/images/kodaikanal.jpeg"
+  },
+  {
+    "place": "Yelagiri",
+    "state": "Tamil Nadu",
+    "type": "Hill Station",
+    "category": "Hidden Gem",
+    "description": "Yelagiri is a beautiful hill station located in Tamil Nadu, India.",
+    "image": "/images/yelagiri.jpeg"
+  },
+  {
+    "place": "Courtallam Falls",
+    "state": "Tamil Nadu",
+    "type": "Waterfall",
+    "category": "Hidden Gem",
+    "description": "Courtallam Falls is a beautiful waterfall located in Tamil Nadu, India.",
+    "image": "/images/courtallam.jpeg"
+  },
+  {
+    "place": "Manali",
+    "state": "Himachal Pradesh",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Manali is a beautiful hill station located in Himachal Pradesh, India.",
+    "image": "/images/manali.jpeg"
+  },
+  {
+    "place": "Shimla",
+    "state": "Himachal Pradesh",
+    "type": "Hill Station",
+    "category": "Hotspot",
+    "description": "Shimla is a beautiful hill station located in Himachal Pradesh, India.",
+    "image": "/images/shimla.jpeg"
+  },
+  {
+    "place": "Chitkul",
+    "state": "Himachal Pradesh",
+    "type": "Village",
+    "category": "Hidden Gem",
+    "description": "Chitkul is a beautiful village located in Himachal Pradesh, India.",
+    "image": "/images/chitkul.jpeg"
+  },
+  {
+    "place": "Kalpa",
+    "state": "Himachal Pradesh",
+    "type": "Village",
+    "category": "Hidden Gem",
+    "description": "Kalpa is a beautiful village located in Himachal Pradesh, India.",
+    "image": "/images/kalpa.jpeg"
+  }
+]
